@@ -1,0 +1,9 @@
+{
+    "rules": {
+      "color-hex-case": "lower",
+      "number-leading-zero": "always",
+      "selector-max-id": 0,
+      "indentation": 2
+    }
+  }
+  
